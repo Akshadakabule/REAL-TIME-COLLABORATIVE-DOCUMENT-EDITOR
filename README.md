@@ -68,3 +68,7 @@ collab_editor/
     npm start
  Frontend will run at: http://localhost:3000
 
+## Output:-
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a5cf9638-9810-4d7f-b377-7acd78e2b260" />
+
